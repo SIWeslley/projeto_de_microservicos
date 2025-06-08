@@ -1,4 +1,4 @@
-package br.com.wesguedesas.api_gateway;
+package br.com.wesguedesas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

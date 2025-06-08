@@ -34,7 +34,6 @@ public class BookController {
 		var book = repository.getReferenceById(id);
 		
 		if(book == null) throw new RuntimeException("Book not found!");
-		
 
 		var cambio = proxy.getCambio(book.getPrice(), "USD", currency);
 		

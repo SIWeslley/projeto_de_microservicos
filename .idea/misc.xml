@@ -5,8 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/cambio-service/pom.xml" />
+        <option value="$PROJECT_DIR$/naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="https://maven.apache.org/POM/4.0.0 " location="$PROJECT_DIR$" />
+    <resource url="https://maven.apache.org/xsd/maven-4.0.0.xsd " location="$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
